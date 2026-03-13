@@ -14,4 +14,4 @@ I am a Software Developer with a Master of Computer Applications (MCA), speciali
 * **Databases:** MySQL, PostgreSQL, MongoDB
 
 #### 📫 Let's Connect:
-* [Connect with me on LinkedIn](YOUR_LINKEDIN_URL_HERE)
+* [Connect with me on LinkedIn](https://www.linkedin.com/in/anushrav-mudgal/)
